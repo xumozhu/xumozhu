@@ -1,11 +1,13 @@
 # 👋 Hi there, I'm Xumo Zhu  
 
-🎓 **UC San Diego Math-Stats & Probability (Graduated in March 2025)**  
-📚 Currently a **Student**, exploring opportunities in **Data Science, Business Analytics, and Applied Statistics**  
-💡 Passionate about turning data into insights & building AI-powered solutions 🚀  
+## 👩‍🎓 About Me  
+- 🎓 UC San Diego Math-Stats & Probability (Graduated in March 2025)
+- 🔍 Currently a **Student**, exploring opportunities in **Data Science, Business Analytics, and Applied Statistics** 
+- 🌱 Currently learning advanced NLP & visualization tools  
+- ✨ Fun fact: I enjoy blending data with creativity to tell compelling stories. Passionate about turning data into insights & building AI-powered solutions 🚀    
 
 ---
-
+## Here are some of the tools and technologies I use:
 ## 🛠 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
