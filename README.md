@@ -2,7 +2,6 @@
 
 ## 👩‍🎓 About Me  
 - 🎓 UC San Diego Math-Stats & Probability (Graduated in March 2025)
-- 🔍 Currently a **Student**, exploring opportunities in **Data Science, Business Analytics, and Applied Statistics** 
 - 🌱 Currently learning advanced NLP & visualization tools  
 - ✨ Fun fact: I enjoy blending data with creativity to tell compelling stories. Passionate about turning data into insights & building AI-powered solutions 🚀    
 
@@ -17,22 +16,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FECC00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=mathworks&logoColor=white)
-
----
-## 📂 Featured Projects  
-
-### 🔹 [RAG-system](https://github.com/xumozhu/RAG-system)  
-📘 *A Retrieval-Augmented Generation system combining document retrieval with large language models (LLMs) to generate accurate and grounded answers.*  
-
-### 🔹 Sentiment Analysis Pipeline *(Coming Soon)*  
-📰 *Web scraping pipeline + sentiment analysis model to analyze online reviews and extract business insights.*  
-➡️ GitHub Link: *(to be added)*  
-
-### 🔹 Personal Project *(In Progress 🚧)*  
-⚡ *Experimental project exploring advanced workflows in data visualization & machine learning.*  
-➡️ GitHub Link: *(to be added)*  
-
----
 
 ## 🌐 Connect with Me  
 
