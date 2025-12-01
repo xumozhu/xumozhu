@@ -2,7 +2,7 @@
 
 ## 👩‍🎓 About Me  
 - 🎓 UC San Diego Math-Stats & Probability (Graduated in March 2025)
-- 🌱 Currently learning advanced NLP & visualization tools  
+- 🌱 Currently learning advanced NLP
 - ✨ Fun fact: I'm passionate about turning data into insights & building AI-powered solutions 🚀    
 
 ---
