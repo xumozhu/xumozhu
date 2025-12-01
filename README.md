@@ -22,7 +22,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/xumo-z-a39b1524b/)  
 - 📧 Email: **xumozhu516@gmail.com**  
 - 🐙 [GitHub](https://github.com/xumozhu/xumozhu)  
-
----
-
-✨ _“Statistics is the foundation, AI is the future. I’m here to bridge both worlds.”_  
