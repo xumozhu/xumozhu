@@ -4,7 +4,7 @@
 - 🎓 M.S. in Machine Learning and Data Science @ Northwestern University
 - 🎓 B.S. in Mathematics – Statistics & Probability @ UC San Diego
 - 🤖 Interested in Applied AI, Data Science, and AI-powered products
-- 💡 Passionate about turning data and machine learning into practical solutions that create real-world impact
+- 💡 Passionate about turning data into practical solutions that create real-world impact
 
 ---
 ## Here are some of the tools and technologies I use:
