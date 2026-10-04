@@ -20,6 +20,6 @@
 
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/xumo-z-a39b1524b/)  
-- 📧 Email: **xumozhu516@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chloe-z-a39b1524b/)  
+- 📧 Email: **chloezhu516@gmail.com**  
 - 🐙 [GitHub](https://github.com/xumozhu/xumozhu)  
