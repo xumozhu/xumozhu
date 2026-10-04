@@ -1,9 +1,10 @@
-# 👋 Hi there, I'm Xumo Zhu  
+# 👋 Hi there, I'm Chloe Zhu
 
-## 👩‍🎓 About Me  
-- 🎓 UC San Diego Math-Stats & Probability (Graduated in March 2025)
-- 🌱 Currently learning advanced NLP
-- ✨ Fun fact: I'm passionate about turning data into insights & building AI-powered solutions 🚀    
+## 👩‍💻 About Me
+- 🎓 M.S. in Machine Learning and Data Science @ Northwestern University
+- 🎓 B.S. in Mathematics – Statistics & Probability @ UC San Diego
+- 🤖 Interested in Applied AI, Data Science, and AI-powered products
+- 💡 Passionate about turning data and machine learning into practical solutions that create real-world impact
 
 ---
 ## Here are some of the tools and technologies I use:
